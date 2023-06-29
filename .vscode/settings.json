@@ -1,5 +1,12 @@
 {
   "cSpell.words": [
-    "foldl"
+    "canonicalize",
+    "concat",
+    "fmap",
+    "foldl",
+    "HLINT",
+    "mklink",
+    "normalise",
+    "unrecognised"
   ]
 }
